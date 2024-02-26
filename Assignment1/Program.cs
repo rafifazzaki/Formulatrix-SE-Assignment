@@ -8,11 +8,14 @@ using InternalCalculationLib;
 class Program{
     static void Main(){
         string input = Console.ReadLine();
-        string[] a = ChangeToFooAndBar.Run(input);
+        // ChangeToFooAndBar.RunConsole(input); //console
 
-        Console.WriteLine(ChangeToFooAndBar.Run(input));
+        
+        string[] a = ChangeToFooAndBar.Run(input); //return string[]
         foreach(string number in a){
             Console.WriteLine(number);
         }
+
+        
     }
 }

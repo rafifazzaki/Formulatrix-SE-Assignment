@@ -20,7 +20,7 @@ public class ChangeToFooAndBar{
     public static string[] Run(string input){
         int.TryParse(input, out int inputInt);
         
-        string[] arrayNumber = new string[inputInt];
+        string[] arrayNumber = new string[inputInt+1];
         // inputInt = 15
         // tapi arrayNumber[0-14]
         // int i = 0;
@@ -51,7 +51,7 @@ public class ChangeToFooAndBar{
         // }
         
         
-        for(int i=0; i<inputInt; i++){
+        for(int i=0; i<inputInt+1; i++){
             
             if(i%3 == 0 && i%5 == 0){
                 arrayNumber[i] = "Foobar";
