@@ -1,22 +1,6 @@
 ﻿namespace InternalCalculationLib;
 
 public class ChangeToFooAndBar{
-    public static void RunConsole(string input){
-        int.TryParse(input, out int a);
-        Console.WriteLine("0");
-        for(int i=1; i<a+1; i++){
-            if(i%3 == 0 && i%5 == 0){
-                Console.WriteLine("Foobar");
-            }else if(i%3 == 0){
-                Console.WriteLine("Foo");
-            }else if(i%5 == 0){
-                Console.WriteLine("bar");
-            }else{
-                Console.WriteLine(i);
-            }
-        }
-    }
-
     public static string[] Run(string input){
         int.TryParse(input, out int inputInt);
         

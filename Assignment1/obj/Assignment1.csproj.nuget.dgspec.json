@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 9\\Desktop\\Formulatrix-SE-Assignment\\Assignment1\\Assignment1.csproj": {}
+    "C:\\Users\\Batch 9\\Desktop\\Formulatrix-SE-Assignment\\Assignment1\\Assignment1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 9\\Desktop\\Formulatrix-SE-Assignment\\Assignment1\\Assignment1.csproj": {
+    "C:\\Users\\Batch 9\\Desktop\\Formulatrix-SE-Assignment\\Assignment1\\Assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 9\\Desktop\\Formulatrix-SE-Assignment\\Assignment1\\Assignment1.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 9\\Desktop\\Formulatrix-SE-Assignment\\Assignment1\\Assignment1.csproj",
         "projectName": "Assignment1",
-        "projectPath": "c:\\Users\\Batch 9\\Desktop\\Formulatrix-SE-Assignment\\Assignment1\\Assignment1.csproj",
+        "projectPath": "C:\\Users\\Batch 9\\Desktop\\Formulatrix-SE-Assignment\\Assignment1\\Assignment1.csproj",
         "packagesPath": "C:\\Users\\Batch 9\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 9\\Desktop\\Formulatrix-SE-Assignment\\Assignment1\\obj\\",
+        "outputPath": "C:\\Users\\Batch 9\\Desktop\\Formulatrix-SE-Assignment\\Assignment1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 9\\AppData\\Roaming\\NuGet\\NuGet.Config"
