@@ -8,7 +8,6 @@ using InternalCalculationLib;
 class Program{
     static void Main(){
         string input = Console.ReadLine();
-        // ChangeToFooAndBar.RunConsole(input); //console
 
         
         string[] a = ChangeToFooAndBar.Run(input); //return string[]
