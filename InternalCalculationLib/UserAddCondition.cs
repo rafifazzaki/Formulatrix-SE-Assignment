@@ -1,0 +1,4 @@
+namespace InternalCalculationLib;
+class UserAddCondition{
+
+}
