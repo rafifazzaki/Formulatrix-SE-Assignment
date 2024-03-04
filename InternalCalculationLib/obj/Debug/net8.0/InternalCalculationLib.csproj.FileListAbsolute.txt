@@ -22,3 +22,15 @@ c:\Users\Batch 9\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationL
 c:\Users\Batch 9\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationLib\obj\Debug\net8.0\refint\InternalCalculationLib.dll
 c:\Users\Batch 9\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationLib\obj\Debug\net8.0\InternalCalculationLib.pdb
 c:\Users\Batch 9\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationLib\obj\Debug\net8.0\ref\InternalCalculationLib.dll
+c:\Users\rafif\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationLib\bin\Debug\net8.0\InternalCalculationLib.deps.json
+c:\Users\rafif\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationLib\bin\Debug\net8.0\InternalCalculationLib.dll
+c:\Users\rafif\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationLib\bin\Debug\net8.0\InternalCalculationLib.pdb
+c:\Users\rafif\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationLib\obj\Debug\net8.0\InternalCalculationLib.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rafif\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationLib\obj\Debug\net8.0\InternalCalculationLib.AssemblyInfoInputs.cache
+c:\Users\rafif\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationLib\obj\Debug\net8.0\InternalCalculationLib.AssemblyInfo.cs
+c:\Users\rafif\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationLib\obj\Debug\net8.0\InternalCalculationLib.csproj.CoreCompileInputs.cache
+c:\Users\rafif\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationLib\obj\Debug\net8.0\InternalCalculationLib.sourcelink.json
+c:\Users\rafif\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationLib\obj\Debug\net8.0\InternalCalculationLib.dll
+c:\Users\rafif\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationLib\obj\Debug\net8.0\refint\InternalCalculationLib.dll
+c:\Users\rafif\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationLib\obj\Debug\net8.0\InternalCalculationLib.pdb
+c:\Users\rafif\Documents\GitHub\Formulatrix-SE-Assignment\InternalCalculationLib\obj\Debug\net8.0\ref\InternalCalculationLib.dll
