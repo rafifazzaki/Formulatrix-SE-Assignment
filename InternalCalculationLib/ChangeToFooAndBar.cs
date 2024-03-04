@@ -23,42 +23,32 @@ public class ChangeToFooAndBar{
         
         for(int i=0; i<inputInt+1; i++){
             
-            if(i%3 == 0 && i%5 == 0){
-                // rules.Values.Contains
+            if(CheckInputWithDictionary(i)){ //somehow check if it could be compared to each item on rules
+                foreach (var item in rules)
+                {
+                    if(i%item.Key == 0){
+                        placeholder += item.Value;
+                    }
+                }
+            arrayNumber[i] = placeholder;
+            placeholder = "";
+
             }else{
                 arrayNumber[i] = i.ToString();
             }
-            foreach (var item in rules)
-            {
-                if(i%item.Key == 0){
-                    placeholder += item.Value;
-                }
-            }
             
-            placeholder = "";
         }
         arrayNumber[0] = "0";
         return arrayNumber;
     }
 
-    // public static string[] Run(string input){
-    //     int.TryParse(input, out int inputInt);
-        
-    //     string[] arrayNumber = new string[inputInt+1];
-        
-    //     for(int i=0; i<inputInt+1; i++){
-            
-    //         if(i%3 == 0 && i%5 == 0){
-    //             arrayNumber[i] = "Foobar";
-    //         }else if(i%3 == 0){
-    //             arrayNumber[i] = "Foo";
-    //         }else if(i%5 == 0){
-    //             arrayNumber[i] = "bar";
-    //         }else{
-    //             arrayNumber[i] = i.ToString();
-    //         }
-    //     }
-    //     arrayNumber[0] = "0";
-    //     return arrayNumber;
-    // }
+    bool CheckInputWithDictionary(int i){
+        foreach (var item in rules)
+        {
+            if(i%item.Key == 0){
+                return true;
+            }
+        }
+        return false;
+    }
 }
