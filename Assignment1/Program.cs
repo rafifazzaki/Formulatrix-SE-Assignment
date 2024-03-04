@@ -9,11 +9,12 @@ class Program{
     static void Main(){
         string input = Console.ReadLine();
 
+
         
-        string[] a = ChangeToFooAndBar.Run(input); //return string[]
-        foreach(string number in a){
-            Console.WriteLine(number);
-        }
+        // string[] a = ChangeToFooAndBar.Run(input); //return string[]
+        // foreach(string number in a){
+        //     Console.WriteLine(number);
+        // }
 
         
     }

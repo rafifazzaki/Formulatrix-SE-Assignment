@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InternalCalculationLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cfea377d2b5a0a4bdd859e66a0ddfa8d2ca020c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("InternalCalculationLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InternalCalculationLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
