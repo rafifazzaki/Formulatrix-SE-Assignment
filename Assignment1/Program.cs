@@ -55,9 +55,5 @@ class Program
             }
 
         } while (!isEnding);
-
-
-
-
     }
 }
